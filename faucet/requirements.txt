@@ -1,0 +1,5 @@
+pysodium
+secp256k1
+fastecdsa
+pytezos==2.2.8
+ton-client-py
