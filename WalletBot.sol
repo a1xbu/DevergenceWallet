@@ -77,10 +77,10 @@ contract Bot is Debot, TezosClient {
         tvm.accept();
 
         NetworkInfo ep;
-        ep.name = "hangzhou @smartpy.io";
-        ep.shell = "https://hangzhounet.smartpy.io";
-        ep.api = "https://api.hangzhou2net.tzkt.io";
-        ep.helper_name = "hangzhou2net";
+        ep.name = "ithacanet @smartpy.io";
+        ep.shell = "https://ithacanet.smartpy.io";
+        ep.api = "https://api.ithacanet.tzkt.io";
+        ep.helper_name = "ithacanet";
         m_networks.push(ep);
 
         ep.name = "hangzhou @testnets.xyz";

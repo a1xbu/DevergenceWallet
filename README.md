@@ -3,7 +3,7 @@
 DEvergence Wallet is an Everscale DeBot for managing a Tezos wallet.
 
 * DeBot address (Everscale Testnet): 
-[0:c36c8a6edd7d446ada4f3de43c2fa20c101c7223f17c56d16ba39a30dcea6f54](https://uri.ever.surf/debot/0:c36c8a6edd7d446ada4f3de43c2fa20c101c7223f17c56d16ba39a30dcea6f54?net=devnet)
+[0:c9ebfa0388497fbeda5b1926b70143db720d484201153b669feac280537f512f](https://uri.ever.surf/debot/0:c9ebfa0388497fbeda5b1926b70143db720d484201153b669feac280537f512f?net=devnet)
 
 * Presenation on YouTube:
 https://www.youtube.com/watch?v=sQ-HnldT3jM
